@@ -1,6 +1,6 @@
 {
   "name": "@br88c/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Personal eslint config.",
   "main": "index.js",
   "scripts": {
