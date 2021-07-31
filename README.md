@@ -9,6 +9,6 @@ npm i --save @br88c/eslint-config @typescript-eslint/eslint-plugin @typescript-e
 Then paste this into your `.eslintrc.js` file:
 ```js
 module.exports = {
-  extends: "@br88c/eslint-config"
+  extends: `@br88c/eslint-config`
 }
 ```
