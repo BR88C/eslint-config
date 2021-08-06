@@ -12,6 +12,7 @@ module.exports = {
         '@typescript-eslint/no-non-null-assertion': `off`,
         'array-bracket-newline': `warn`,
         'comma-spacing': `warn`,
+        'eol-last': `warn`,
         eqeqeq: `warn`,
         'func-call-spacing': `warn`,
         indent: [`error`, 4, { SwitchCase: 1 }],
