@@ -27,6 +27,7 @@ module.exports = {
                 ExportDeclaration: { minProperties: 2 }
             }
         ],
+        'object-curly-spacing': [`warn`, `always`],
         'prefer-arrow-callback': `warn`,
         'prefer-template': `error`,
         quotes: [`error`, `backtick`, `avoid-escape`],
