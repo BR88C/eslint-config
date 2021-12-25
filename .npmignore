@@ -1,6 +1,6 @@
+.github/
 node_modules/
-.vscode/
-package-lock.json
+
 .gitattributes
-.github
 .gitignore
+package-lock.json
