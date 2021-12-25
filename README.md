@@ -1,12 +1,8 @@
 <div align="center">
     <br>
     <h1>@br88c/eslint-config</h1>
-    <br><br>
     <p>
-        <a href="https://www.npmjs.com/package/boogcord"><img src="https://img.shields.io/npm/v/boogcord.svg?color=5162F&style=for-the-badge&logo=npm"></a>
-        <a href="https://github.com/boogcord/boogcord/actions/workflows/build.yml"><img src="https://img.shields.io/github/workflow/status/boogcord/boogcord/Build?style=for-the-badge&logo=github"><a>
-        <a href="https://github.com/boogcord/boogcord/actions/workflows/lint.yml"><img src="https://img.shields.io/github/workflow/status/boogcord/boogcord/Lint?label=lint&style=for-the-badge&logo=github"><a>
-        <a href="https://discord.gg/hRXKcUKGHB"><img src="https://img.shields.io/discord/564877383308541964?color=5162F1&style=for-the-badge&logo=discord&logoColor=white"></a>
+        <a href="https://www.npmjs.com/package/@br88c/eslint-config"><img src="https://img.shields.io/npm/v/@br88c/eslint-config.svg?color=5162F&style=for-the-badge&logo=npm"></a>
     </p>
 </div>
 
