@@ -1,9 +1,10 @@
 {
   "name": "@br88c/eslint-config",
   "version": "1.4.0",
-  "description": "Eslint config.",
+  "description": "Personal eslint config.",
   "main": "./index.js",
   "keywords": [
+    "br88c",
     "eslint",
     "eslint-config"
   ],

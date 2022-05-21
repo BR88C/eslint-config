@@ -7,7 +7,7 @@
 </div>
 
 ## About
-My personal eslint config for TypeScript. Feel free to use it!
+My personal eslint config for TypeScript.
 
 ## Installation
 Install the required dependencies
