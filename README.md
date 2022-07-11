@@ -10,7 +10,7 @@
 My personal eslint config for TypeScript.
 
 ## Installation
-Install the required dependencies
+Install the required dependencies:
 ```
 npm i --save-dev @br88c/eslint-config eslint typescript
 ```
