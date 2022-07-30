@@ -3,15 +3,19 @@
     "parser": "@typescript-eslint/parser",
     "extends": [
         "eslint:recommended",
-        "plugin:@typescript-eslint/recommended"
+        "plugin:@typescript-eslint/recommended",
+        "plugin:import/recommended",
+        "plugin:import/typescript",
+        "plugin:node/recommended"
     ],
-    "plugins": ["@typescript-eslint"],
+    "plugins": ["@typescript-eslint", "import", "node"],
     "rules": {
         "@typescript-eslint/array-type": ["error", { "default": "array-simple" }],
         "@typescript-eslint/explicit-function-return-type": "error",
         "@typescript-eslint/no-empty-function": "off",
         "@typescript-eslint/no-explicit-any": "off",
         "@typescript-eslint/no-non-null-assertion": "off",
+        "import/no-default-export": "error",
         "array-bracket-newline": "error",
         "arrow-parens": ["error", "always"],
         "arrow-spacing": "error",
@@ -32,7 +36,6 @@
         "new-parens": "error",
         "no-constant-binary-expression": "error",
         "no-constructor-return": "error",
-        "no-duplicate-imports": "error",
         "no-eval": "error",
         "no-floating-decimal": "error",
         "no-implied-eval": "error",
